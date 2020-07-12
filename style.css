@@ -5,11 +5,13 @@
 	font-family: serif;
 }
 .wrap{
-	background-image: url("bg.jpg");
 	background-size: cover;
-	background-repeat: no-repeat;
-	color: white;
+	background-attachment: fixed;
+}
 
+.bg1{
+	background:url('bg.jpg');
+	color: white;	
 }
 	
 .header{
