@@ -4,6 +4,14 @@
 	margin: 0px;
 	font-family: serif;
 }
+.wrap{
+	background: url("bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+
+}
+	
 .header{
 	background-image: url("premium-img4.jpg");
 	background-size: cover;
@@ -89,7 +97,7 @@ footer{
 	background: black;
 	color: white;
 	display:grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 2fr;
 
 }
 .container2{
